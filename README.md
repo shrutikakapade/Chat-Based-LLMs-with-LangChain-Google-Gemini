@@ -217,6 +217,20 @@ Both repositories are designed to work in sync for structured learning.
 </p>
 </div>
 
+<section>
+  <h3>🔹 OpenAI Chat Model (Reference Only)</h3>
+  <p>
+    An OpenAI chat model is included only to demonstrate workflow similarity
+    with Google Gemini when used via LangChain.
+  </p>
+  <p>
+    Execution requires a valid OpenAI API subscription and enabled chat models.
+    Without API access, this code will not run and is provided strictly for
+    reference and flow understanding purposes.
+  </p>
+</section>
+
+
 <hr>
 
 <p>
