@@ -224,7 +224,7 @@ Both repositories are designed to work in sync for structured learning.
     with Google Gemini when used via LangChain.
   </p>
   <p>
-    Execution requires a valid OpenAI API subscription and enabled chat models.
+    Note: Execution requires a valid OpenAI API subscription and enabled chat models.
     Without API access, this code will not run and is provided strictly for
     reference and flow understanding purposes.
   </p>
