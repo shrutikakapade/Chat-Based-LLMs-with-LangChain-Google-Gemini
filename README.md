@@ -175,7 +175,7 @@ with the Gemini chat model.
 <h2>🎥 Video Demonstration</h2>
 
 <p>
-A video recording of the project execution is provided for reference.
+A video recording of the project execution is provided for reference : LLM_Chat_Model.mp4.
 </p>
 
 <ul>
